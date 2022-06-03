@@ -322,21 +322,21 @@ int main()
     bstdb_init();
 
     int arr[22];
-    arr[0] = bstdb_add("Fuck ya chicken strips", 1625);
+    arr[0] = bstdb_add("Frick ya chicken strips", 1625);
     arr[1] = bstdb_add("Live laugh love", 1342);
-    arr[2] = bstdb_add("Meinkraft", 1866);
+    arr[2] = bstdb_add("Minecraft", 1866);
     arr[3] = bstdb_add("Road works ahead", 1225);
     arr[4] = bstdb_add("Sure hope it does", 1377);
     arr[5] = bstdb_add("ROLF", 1066);
-    arr[6] = bstdb_add("Fuck ya chicken strips", 1625);
+    arr[6] = bstdb_add("Frick ya chicken strips", 1625);
     arr[7] = bstdb_add("Live laugh love", 1342);
-    arr[8] = bstdb_add("Meinkraft", 1866);
+    arr[8] = bstdb_add("Minecraft", 1866);
     arr[9] = bstdb_add("Road works ahead", 1225);
     arr[10] = bstdb_add("Sure hope it does", 1377);
     arr[11] = bstdb_add("ROLF", 1066);
-    arr[12] = bstdb_add("Fuck ya chicken strips", 1625);
+    arr[12] = bstdb_add("Frick ya chicken strips", 1625);
     arr[13] = bstdb_add("Live laugh love", 1342);
-    arr[14] = bstdb_add("Meinkraft", 1866);
+    arr[14] = bstdb_add("Minecraft", 1866);
     arr[15] = bstdb_add("Road works ahead", 1225);
     arr[16] = bstdb_add("Sure hope it does", 1377);
     arr[17] = bstdb_add("ROLF", 1066);
